@@ -4,4 +4,4 @@ this is my file repository on git '
 my name is nitin
 i am learning git hub.
 this is my 3 day of learning github.
-i am study in mangalyatan 
+i am study by youtube.
